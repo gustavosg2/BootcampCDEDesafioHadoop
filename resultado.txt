@@ -1,0 +1,10 @@
+Palavra:'the', Quantidade: 4066
+Palavra:'and', Quantidade: 2969
+Palavra:'of', Quantidade: 2746
+Palavra:'I', Quantidade: 2719
+Palavra:'to', Quantidade: 2144
+Palavra:'my', Quantidade: 1631
+Palavra:'a', Quantidade: 1394
+Palavra:'', Quantidade: 1186
+Palavra:'in', Quantidade: 1129
+Palavra:'was', Quantidade: 994
